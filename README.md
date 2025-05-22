@@ -4,9 +4,6 @@ Projektin nimi ja kaikki siihen osallistuneet tekijät
 ## Demo-linkki:  
 Pääset sivustolleni osoitteessa [google.com](https://google.com)
 
-## Työmäärän jakautuminen  
-Miten työ jaettiin? Kuka teki mitä? 
-
 ## Tietoa sovelluksesta  
 [Projektin nimi] on sovellus, joka...
 
