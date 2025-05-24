@@ -37,7 +37,7 @@ Visualisoin prosessin vuokaaviona, joka on prjoektin kansiossa kaavi.drawio- ja 
 ## Lähteet ja tekijät  
 
 Tässä prjoektissa oli käytetty ChatGPT:tä tekstin kieliasun muokkaamiseen ja tekstin sujuvoittamiseen. 
-Tekoäly auttoi minua valitsemaan sovelluksen teeman, koska minulla oli paljon ideoita. Käytin tekoälyä myös koodissa tekstien kirjoittamiseen esim. eri treenivaihtoehdoista ja pyysin apua, kun kohtasin ongelman koodin kanssa. Sen avulla työ eteni eikä pysähtynyt.
+Tekoäly auttoi minua valitsemaan sovelluksen teeman, koska minulla oli paljon ideoita. Käytin tekoälyä myös koodissa tekstien kirjoittamiseen esim. eri treenivaihtoehdoista ja miten kaavan miten lasketaan vedenmäärän. Pyysin apua, kun kohtasin ongelman koodin kanssa. Sen avulla työ eteni eikä pysähtynyt.
 
 - [Markdown guide](https://www.markdownguide.org/basic-syntax/)
 - [Python Tutorial](https://www.w3schools.com/python/python_intro.asp)

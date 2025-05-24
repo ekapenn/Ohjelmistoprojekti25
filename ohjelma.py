@@ -59,7 +59,7 @@ elif tavoite == "kasvattaa massaa" and  taso== "edistynyt" and mieltymys in["kar
     suositus = "Voimaharjoittelu, 2-4 kertaa viikossa"
 #treenit suositus jos on edistynyt
 if tavoite == "pitää kunto kunnossa" and  taso== "aloittelija" and mieltymys in["kardio", "voimaharjoittelu", "venyttely"]:
-    suositus = "Treenit + 20min kardio, 2-4 kertaa viikossa"
+    suositus = "Kevyttä voimaharjoittelua 2-3 kertaa viikossa + kävelylenkkejä."
 elif tavoite == "pitää kunto kunnossa" and  taso== "keskitaso" and mieltymys in["kardio", "voimaharjoittelu", "venyttely"]:
     suositus = "Treenit + 30min kardio, 2-4 kertaa viikossa"
 elif tavoite == "pitää kunto kunnossa" and  taso== "edistynyt" and mieltymys in["kardio", "voimaharjoittelu", "venyttely"]:
