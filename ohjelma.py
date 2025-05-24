@@ -23,7 +23,7 @@ while True:
     print("Tarkista syöttö: vain annetuista vaihtoehdoista") #virheilmoitus
 #kolmaskysymys-mieltymys
 while True:
-    mieltymys= input("Mitä eniten tykkäät\nkardio / voimaharjoittelu / venyttely: ").lower()
+    mieltymys= input("Mitä eniten tykkäät?\nkardio / voimaharjoittelu / venyttely: ").lower()
     if mieltymys in sallit_mieltymys: #syötteen tarkistaminen
         break
     print("Tarkista syöttö: vain annetuista vaihtoehdoista") #virheilmoitus
