@@ -74,7 +74,8 @@ yleisvesi = vesi + trenivesi #vesimäärä yhteensä
 print("\n" + "=" * 57) #kehyksen yläreuna
 print("{:^57}".format ("TULOS")) #Tämä tulostaa keskelle sanan
 print(f"Nimi: {nimi}")
+print(f"Tavoite: {nimi}")
 print(f"Taso: {taso}")
 print(f"Treeniohjelma: {suositus}") #lopullinen suositus
-print(f"Veden suositus: {yleisvesi:.2f}l/päivä")
+print(f"Juomaveden suositus: {yleisvesi:.2f}l/päivä")
 print("\n" + "=" * 57) #kehyksen alareuna
