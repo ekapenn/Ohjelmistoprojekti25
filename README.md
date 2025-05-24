@@ -1,6 +1,6 @@
 # Personal FitPlan 
-Personal FitPlan 
-Ekaterina Pennonen ja tein sen yksin.
+>Personal FitPlan 
+>Ekaterina Pennonen ja tein sen yksin.
 
 ## Demo-linkki:  
 Pääset sivustolleni osoitteessa [google.com](https://google.com)
