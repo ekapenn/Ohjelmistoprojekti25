@@ -30,7 +30,7 @@ Ensin määrittelin, mitä tietoja käyttäjältä tarvitaan (nimi, tavoite, tas
 
 Sen jälkeen rakensin loogisen rakenteen kysymyksille ja vastauksille, lisäsin tarkistuksia virheiden varalta ja laskin veden tarpeen. 
 
-Visualisoin prosessin vuokaaviona, joka on prjoektin kansiossa kaavi.drawio- ja png- tiedostona.
+Visualisoin prosessin vuokaaviona, joka on prjoektin kansiossa kaavio.drawio- ja näyttönkuvan kaavi.png- tiedostona.
 
 ## Lähteet ja tekijät  
 
