@@ -39,29 +39,29 @@ while True:
             continue
         break
     except ValueError:
-        print("Syötä luku. Esim, 70.")# jos vastaus on väärä, nätetään tämä viesti
+        print("Syötä luku. Esim, 70.")# jos vastaus on väärä, näytetään tämä viesti
 
 #treenin suositus
 suositus= ""
 #treenin suositus jos halutaan laihtua 
 if tavoite == "laihtua" and  taso== "aloittelija" and mieltymys in["kardio", "voimaharjoittelu", "venyttely"]:
-    suositus = "Treenit + 15min cardio, 2-5 kerta viikossa"
+    suositus = "Treenit + 15min kardio, 2-5 kertaa viikossa"
 elif tavoite == "laihtua" and  taso== "keskitaso" and mieltymys in["kardio", "voimaharjoittelu", "venyttely"]:
-    suositus = "Treenit + 20min cardio, 2-4 kerta viikossa"
+    suositus = "Treenit + 20min kardio, 2-5 kertaa viikossa"
 elif tavoite == "laihtua" and  taso== "edistynyt" and mieltymys in["kardio", "voimaharjoittelu", "venyttely"]:
-    suositus = "Treenit + 30min cardio, 3-4 kerta viikossa"
+    suositus = "Treenit + 30min kardio, 2-4 kertaa viikossa"
 #treenit suositus jos halutaan lisätä massaa   
 if tavoite == "kasvattaa massaa" and  taso== "aloittelija" and mieltymys in["voimaharjoittelu", "venyttely"]:
     suositus = "Voimaharjoittelu, 2-4 kertaa viikossa"
 elif tavoite == "kasvattaa massaa" and  taso== "keskitaso" and mieltymys in["voimaharjoittelu", "venyttely"]:
     suositus = "Voimaharjoittelu, 3-4 kertaa viikossa"
 elif tavoite == "kasvattaa massaa" and  taso== "edistynyt" and mieltymys in["kardio", "voimaharjoittelu", "venyttely"]:
-    suositus = "Voimaharjoittelu, 3-4 kertaa viikossa"
+    suositus = "Voimaharjoittelu, 2-4 kertaa viikossa"
 #treenit suositus jos on edistynyt
 if tavoite == "pitää kunto kunnossa" and  taso== "aloittelija" and mieltymys in["kardio", "voimaharjoittelu", "venyttely"]:
-    suositus = "Treenit + 20min cardio, 2-4 kerta viikossa"
+    suositus = "Treenit + 20min kardio, 2-4 kertaa viikossa"
 elif tavoite == "pitää kunto kunnossa" and  taso== "keskitaso" and mieltymys in["kardio", "voimaharjoittelu", "venyttely"]:
-    suositus = "Treenit + 30min cardio, 2-4 kerta viikossa"
+    suositus = "Treenit + 30min kardio, 2-4 kertaa viikossa"
 elif tavoite == "pitää kunto kunnossa" and  taso== "edistynyt" and mieltymys in["kardio", "voimaharjoittelu", "venyttely"]:
     suositus = "Treenit, 3-4 kertaa viikossa"
 
