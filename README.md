@@ -30,7 +30,7 @@ Ensin määrittelin, mitä tietoja käyttäjältä tarvitaan (nimi, tavoite, tas
 
 Sen jälkeen rakensin loogisen rakenteen kysymyksille ja vastauksille, lisäsin tarkistuksia virheiden varalta ja laskin veden tarpeen. 
 
-Visualisoin prosessin vuokaaviona, joka on prjoektin kansiossa kaavi.drawio- ja png- tiedostana.
+Visualisoin prosessin vuokaaviona, joka on prjoektin kansiossa kaavi.drawio- ja png- tiedostona.
 
 ## Lähteet ja tekijät  
 
@@ -40,4 +40,4 @@ Käytin avuksi projektin aikana opintojakson ja MOOC:in materialeja.
 - [Python Tutorial](https://www.w3schools.com/python/python_intro.asp)
 
 Tässä prjoektissa on käytetty ChatGPT:tä tekstin kieliasun muokkaamiseen ja tekstin sujuvoittamiseen. 
-Tekoäly auttoi minua valitsemaan sovelluksen teeman, koska minulla oli paljon ideoita. Käytin tekoälyä myös tekstien luomiseen, esim. eri treenivaihtoehtojen ehdottamiseen ja veden määrän laskemiseen. Pyysin apua, kun kohtasin ongelman koodin kanssa. Sen avulla työ eteni eikä pysähtynyt.
+Tekoäly auttoi minua valitsemaan sovelluksen teeman, koska minulla oli paljon ideoita. Käytin tekoälyä myös tekstien luomiseen, esim. eri treenivaihtoehtojen ehdottamiseen ja vedenmäärän kaavan laskemiseen. Pyysin apua, kun kohtasin ongelman koodin kanssa. Sen avulla työ eteni eikä pysähtynyt.
