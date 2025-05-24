@@ -66,7 +66,7 @@ elif tavoite == "pitää kunto kunnossa" and  taso== "edistynyt" and mieltymys i
     suositus = "Treenit, 3-4 kertaa viikossa"
 
 #Lasketaan, kuinka paljon vettä tarvitaan
-vesi= paino * 0.03 #perusjuoman juomiseen, 30 ml 1kg painoa kohti = 0,03 litraa/kg.
+vesi= paino * 0.03 #kaava 30 ml 1kg painoa kohti = 0,03 litraa/kg.
 trenivesi= 0.5 if tavoite in ["laihtua", "kasvattaa massaa" ] else 0.0 #jos tavoite on aktiivinen lisätään vielä 0,5 litraa liikuntaa varten.
 yleisvesi = vesi + trenivesi #vesimäärä yhteensä
 
@@ -74,7 +74,7 @@ yleisvesi = vesi + trenivesi #vesimäärä yhteensä
 print("\n" + "=" * 57) #kehyksen yläreuna
 print("{:^57}".format ("TULOS")) #Tämä tulostaa keskelle sanan
 print(f"Nimi: {nimi}")
-print(f"Tavoite: {nimi}")
+print(f"Tavoite: {tavoite}")
 print(f"Taso: {taso}")
 print(f"Treeniohjelma: {suositus}") #lopullinen suositus
 print(f"Juomaveden suositus: {yleisvesi:.2f}l/päivä")
